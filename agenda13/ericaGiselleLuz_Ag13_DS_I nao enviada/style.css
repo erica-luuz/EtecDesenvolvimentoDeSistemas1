@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+}
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: 4.5em;
+}
+h2 {
+    text-align: center;
+    color: darkred;
+}
+.principal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.coluna1, .coluna2, .coluna3, .coluna4, .coluna5 {
+    align-items: center;
+    margin: 1%;
+    flex-grow: 1;
+}
+img {
+    width: 100%;
+    margin: 1.5%;
+}
+
