@@ -17,6 +17,7 @@ body,h1,h2,h3,h4,h5,h6 {
     font-family:"Montserrat", sans-serif;
 }
 
+/* Estilizaçao do w3 -hide-small, para que suma o sidebar em telas de celulares e só fique os traços para navegação*/
 @media only screen and (max-width:600px) {
     #main {
         margin-left: 0;
